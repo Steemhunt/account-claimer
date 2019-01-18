@@ -1,0 +1,10 @@
+{
+  "test": {
+    "username": "test-account",
+    "wif": "TEST_WIF"
+  },
+  "real": {
+    "username": "real-account",
+    "wif": "REAL_WIF"
+  }
+}
